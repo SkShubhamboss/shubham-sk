@@ -1,3 +1,4 @@
 # shubham-sk.github.io
 My portfolio website.
-Live at http://shubhamkumar.me/:)
+Not live at http://shubhamkumar.me/
+Will be up later maybe 
