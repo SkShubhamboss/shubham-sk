@@ -62,7 +62,7 @@
 }
 
 .login-dark form .forgot:hover, .login-dark form .forgot:active {
-  opacity: 1;
+  opacity: 2;
   text-decoration: none;
 }
 
